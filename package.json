@@ -60,7 +60,7 @@
     "jqueryui": "^1.11.1",
     "json-editor": "git+https://github.com/jdorn/json-editor.git",
     "jspm": "^0.16.53",
-    "moment": "^2.17.1",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.4.1",
     "underscore": "^1.8.3"
   },
