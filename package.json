@@ -44,7 +44,7 @@
     "paper": "^0.11.4",
     "prompt-sync": "^4.1.4",
     "recursive-readdir": "^2.1.1",
-    "simple-git": "^1.66.0",
+    "simple-git": "^3.15.0",
     "vinyl-fs": "^2.4.4",
     "webpack": "^2.2.1",
     "webpack-dev-server": "^2.3.0"
